@@ -1,4 +1,4 @@
-# Coffee Shop Full Stack in udacity
+# Coffee Shop Full Stack in Udacity
 
 The coffee shop project is a project that has a coffee maker ^_^
 Mangers can see and modify drinks, add and delete new drinks
