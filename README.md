@@ -77,7 +77,11 @@ ionic serve
 
 ### References
 1-[Auth0](https://manage.auth0.com/)
+
 2-[jwt](https://jwt.io/)
+
 3-[Postman](https://www.postman.com/)
+
 4-[SSl-certificate](https://stackoverflow.com/questions/50236117/scraping-ssl-certificate-verify-failed-error-for-http-en-wikipedia-org)
+
 5-[json.dumps()](https://www.educative.io/edpresso/what-is-the-difference-between-jsonloads-and-jsondumps?aid=5082902844932096&utm_source=google&utm_medium=cpc&utm_campaign=edpresso-dynamic&gclid=CjwKCAjwi_b3BRAGEiwAemPNU8tPcUHkCM2Tn6-hFSWlftodRjp-brXVNuCZ3GUpYyCC-P5ONutnohoCPsEQAvD_BwE)
